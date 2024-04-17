@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmmaintea/psychic-doodle",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmmaintea/psychic-doodle.git"
   },
   "dependencies": {
+    "@npmmaintea/cautious-waddle": "^1.0.0",
+    "@npmmaintea/glowing-broccoli": "^1.0.0",
+    "@npmmaintea/potential-octo-dollop": "^1.0.0"
   }
 }
