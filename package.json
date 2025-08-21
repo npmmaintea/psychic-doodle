@@ -1,6 +1,6 @@
 {
   "name": "@npmmaintea/psychic-doodle",
-  "version": "21.42.422",
+  "version": "21.42.423",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -261,5 +261,5 @@
   "bugs": {
     "url": "https://github.com/npmmaintea/psychic-doodle/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.3"
 }
